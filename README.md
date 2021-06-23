@@ -1,4 +1,4 @@
 # FlinkNote
 
-jobmanager main class: StandaloneApplicationClusterEntryPoint
-taskmanager main class: TaskManagerRunner
+>jobmanager main class: StandaloneApplicationClusterEntryPoint  
+>taskmanager main class: TaskManagerRunner
